@@ -6,7 +6,7 @@ __credits__     = ["Mordy"]
 __license__     = "Private"
 __version__     = "0.0"
 __maintainer__  = "Mordy"
-__email__       = "ricardojvr@gmail.com"
+__email__       = "m3220298@gmail.com"
 __status__      = "Development"
 
 
