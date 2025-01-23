@@ -19,7 +19,7 @@ class AdminApp(BaseWidget):
 	
 	
 	def __init__(self):
-		super(SimpleExample1,self).__init__('Simple example 1')
+		super(AdminApp,self).__init__('Simple example 1')
 
 		#Definition of the forms fields
 		self._firstname 	= ControlText('First name', 'Default value')
@@ -68,5 +68,5 @@ class AdminApp(BaseWidget):
 ##################################################################################################################
 
 #Execute the application
-if __name__ == "__main__":	 pyforms.start_app( SimpleExample1 )
+if __name__ == "__main__":	 pyforms.start_app( AdminApp )
 	
